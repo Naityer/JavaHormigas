@@ -1,0 +1,2422 @@
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0007 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0008 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-54,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0002 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0001 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0004 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0003 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HS0000 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HC0006 : Thread[Thread-55,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HC0005 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HC0003 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ Interrupt PAUSAR - ZONA DESCANSO 
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-54,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-69,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-64,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0004 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HS0003 : Thread[Thread-74,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-59,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HC0006 : Thread[Thread-55,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+HC0005 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-60,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0003 : Thread[Thread-75,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-70,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-65,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA DESCANSO 
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-7,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0007 : Thread[Thread-10,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0027 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0028 : Thread[Thread-41,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0029 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0023 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0026 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0020 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0021 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0009 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0012 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0013 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0011 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+ jButton3_invasor: 
+
+HC0006 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HC0005 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HC0006 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HC0005 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+HC0000 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+HC0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+HC0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - REFUGIO
+ Interrupt PAUSAR - REFUGIO
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0003 : Thread[Thread-4,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+HC0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-4,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+HC0001 : Thread[Thread-5,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+HC0006 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0005 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido
+HC0000 : Thread[Thread-1,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0002 : Thread[Thread-3,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+HC0001 : Thread[Thread-2,5,main] ha sido interrumpido
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+HC0005 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HC0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HS0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HS0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HC0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HS0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0027 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0028 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0029 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0023 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0026 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: true
+Clave: HO0020 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0021 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0016 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0038 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0019 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0012 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0034 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0035 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0036 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0037 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0030 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0031 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0010 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0032 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0011 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0033 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0014 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ENTRAR HORMIGUERO 
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: true
+Clave: HO0010 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0005 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0003 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0018 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - SALIR HOMRIGUERO
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0014 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ENTRAR HORMIGUERO 
+Clave: HO0010 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0011 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0005 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0004 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0005 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ENTRAR HORMIGUERO 
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0027 : Thread[Thread-46,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0028 : Thread[Thread-47,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0029 : Thread[Thread-48,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0023 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-41,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+Clave: HO0026 : Thread[Thread-43,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0041 : Thread[Thread-68,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0020 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0021 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0040 : Thread[Thread-67,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0038 : Thread[Thread-63,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0039 : Thread[Thread-66,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0012 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0034 : Thread[Thread-57,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0035 : Thread[Thread-58,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0036 : Thread[Thread-61,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0037 : Thread[Thread-62,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0030 : Thread[Thread-51,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0031 : Thread[Thread-52,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0032 : Thread[Thread-53,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0033 : Thread[Thread-56,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0013 : Thread[Thread-69,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0012 : Thread[Thread-64,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0004 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0011 : Thread[Thread-59,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0010 : Thread[Thread-54,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0009 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0006 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0005 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0008 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0007 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HC0008 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0007 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0006 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0005 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0009 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0011 : Thread[Thread-60,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0010 : Thread[Thread-55,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0013 : Thread[Thread-70,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0012 : Thread[Thread-65,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0007 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0008 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0023 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-41,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0003 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0026 : Thread[Thread-43,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0020 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0021 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0017 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0019 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ENTRAR HORMIGUERO 
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0006 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0005 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0008 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0007 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0008 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0007 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HC0006 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0005 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0005 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0004 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0005 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ Interrupt PAUSAR - DEFENDER INVASOR
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0006 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: true
+HC0005 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+Clave: HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+Clave: HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - SALIR HOMRIGUERO
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - DEFENDER INVASOR
+Clave: HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: true
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: true
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: true
+GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ENTRAR HORMIGUERO 
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0004 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0014 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0008 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0023 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0026 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0020 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0021 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0016 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0008 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0007 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0006 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HC0005 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: GENERADOR HORMIGAS : Thread[Thread-0,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0004 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton1_pausar: 
+
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0027 : Thread[Thread-48,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0028 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0029 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0023 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0024 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0025 : Thread[Thread-43,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0026 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0020 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0021 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0022 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0016 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0018 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0014 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0015 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HS0009 : Thread[Thread-47,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0006 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0005 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0008 : Thread[Thread-46,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0007 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0004 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: true
+Clave: HS0010 : Thread[Thread-52,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HC0008 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HC0007 : Thread[Thread-41,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0006 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HC0005 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HC0009 : Thread[Thread-51,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0004 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: true
+HS0000 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0005 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0017 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: true
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0012 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0014 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0009 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0005 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+Clave: HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0005 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0004 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+GENERADOR SOLDADOS : Thread[Thread-1,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0027 : Thread[Thread-48,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0028 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0029 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0023 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0024 : Thread[Thread-43,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0003 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0025 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0026 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0020 : Thread[Thread-36,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0021 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0022 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HO0009 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0016 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0017 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0018 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0019 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0012 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0013 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0014 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0015 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0010 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0009 : Thread[Thread-47,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0006 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0005 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0008 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0007 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0004 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA DESCANSO 
+Clave: HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton1_pausar: 
+
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0005 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0006 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0007 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0008 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0002 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0003 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HO0004 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0010 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0011 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0009 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA COMER
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0005 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-2,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0005 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0005 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton1_pausar: 
+
+Clave: HO0001 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0002 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HO0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+Clave: HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+Clave: HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - ZONA INSTRUCCION 
+ Interrupt PAUSAR - ZONA COMER
+Clave: HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+HS0008 : Thread[Thread-39,5,main] ha sido interrumpido --> isInterrupted: false
+HS0007 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0006 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: true
+HC0005 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0013 : Thread[Thread-60,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0012 : Thread[Thread-55,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HS0011 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+HS0010 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+HS0009 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+HS0006 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0008 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+HS0007 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+HC0008 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: true
+HC0007 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: true
+HC0006 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: true
+HC0005 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: true
+HC0009 : Thread[Thread-54,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0011 : Thread[Thread-64,5,main] ha sido interrumpido --> isInterrupted: true
+HC0010 : Thread[Thread-59,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-21,5,] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0013 : Thread[Thread-60,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0012 : Thread[Thread-55,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0015 : Thread[Thread-70,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0014 : Thread[Thread-65,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HS0011 : Thread[Thread-50,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0010 : Thread[Thread-45,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0009 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: false
+HS0006 : Thread[Thread-29,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0005 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: false
+HS0008 : Thread[Thread-35,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0007 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0008 : Thread[Thread-49,5,main] ha sido interrumpido --> isInterrupted: false
+HC0007 : Thread[Thread-44,5,main] ha sido interrumpido --> isInterrupted: true
+HC0006 : Thread[Thread-40,5,main] ha sido interrumpido --> isInterrupted: true
+HC0005 : Thread[Thread-34,5,main] ha sido interrumpido --> isInterrupted: true
+HC0009 : Thread[Thread-54,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0011 : Thread[Thread-64,5,main] ha sido interrumpido --> isInterrupted: true
+HC0010 : Thread[Thread-59,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-21,5,] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0013 : Thread[Thread-74,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+HC0012 : Thread[Thread-69,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+HS0007 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0006 : Thread[Thread-25,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HS0008 : Thread[Thread-31,5,main] ha sido interrumpido --> isInterrupted: false
+HS0007 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: true
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-30,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-24,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-10,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-4,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0004 : Thread[Thread-26,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-14,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-3,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0009 : Thread[Thread-48,5,main] ha sido interrumpido --> isInterrupted: false
+HS0006 : Thread[Thread-33,5,main] ha sido interrumpido --> isInterrupted: false
+HS0005 : Thread[Thread-28,5,main] ha sido interrumpido --> isInterrupted: false
+HS0008 : Thread[Thread-43,5,main] ha sido interrumpido --> isInterrupted: true
+HS0007 : Thread[Thread-38,5,main] ha sido interrumpido --> isInterrupted: false
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HS0004 : Thread[Thread-23,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+ Interrupt PAUSAR - DEFENDER INVASOR
+HC0008 : Thread[Thread-47,5,main] ha sido interrumpido --> isInterrupted: true
+HC0007 : Thread[Thread-42,5,main] ha sido interrumpido --> isInterrupted: true
+HC0006 : Thread[Thread-37,5,main] ha sido interrumpido --> isInterrupted: true
+HC0005 : Thread[Thread-32,5,main] ha sido interrumpido --> isInterrupted: true
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0004 : Thread[Thread-27,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-21,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-20,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-15,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-11,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0003 : Thread[Thread-22,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-17,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-9,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-5,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: true
+ jButton3_invasor: 
+
+HS0002 : Thread[Thread-13,5,main] ha sido interrumpido --> isInterrupted: false
+HS0001 : Thread[Thread-8,5,main] ha sido interrumpido --> isInterrupted: false
+HS0004 : Thread[Thread-19,5,main] ha sido interrumpido --> isInterrupted: false
+HS0003 : Thread[Thread-16,5,main] ha sido interrumpido --> isInterrupted: false
+HS0000 : Thread[Thread-6,5,main] ha sido interrumpido --> isInterrupted: false
+HC0000 : Thread[Thread-7,5,main] ha sido interrumpido --> isInterrupted: true
+HC0002 : Thread[Thread-18,5,main] ha sido interrumpido --> isInterrupted: true
+HC0001 : Thread[Thread-12,5,main] ha sido interrumpido --> isInterrupted: true
